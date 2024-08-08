@@ -25,7 +25,7 @@ terraform apply -auto-approve
 terraform destroy -auto-approve
 ```
 
-## Example output
+## Lambda function output
 ```
 Public IP Address: 18.232.219.151
 ```
