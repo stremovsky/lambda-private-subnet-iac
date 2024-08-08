@@ -24,3 +24,8 @@ terraform apply -auto-approve
 ./test-lambda.sh
 terraform destroy -auto-approve
 ```
+
+## Example output
+```
+Public IP Address: 18.232.219.151
+```
