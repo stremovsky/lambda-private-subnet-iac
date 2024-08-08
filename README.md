@@ -1,4 +1,8 @@
-# Terraform: Sample Lambda with internet access via private subnet & nat gateway
+# Terraform: Sample Lambda with Internet Access via Private Subnet & NAT Gateway
+
+In this project, I create a Lambda function that retrieves an IP address by connecting to the ``api.ipify.org`` service.
+
+The Lambda function code can be found in the ``src/`` directory.
 
 ## Prerequisites
 1. Download and install [Terraform](https://developer.hashicorp.com/terraform/install)
